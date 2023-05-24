@@ -3,3 +3,5 @@
 ```
 $ git init
 ```
+- [ ] this is the first item
+- [ ] turn off notifications
